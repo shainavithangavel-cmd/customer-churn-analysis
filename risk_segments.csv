@@ -1,0 +1,7 @@
+risk_segment,plan_type,customers,customer_months,cancellations,monthly_churn_pct
+High,annual,496,3781,177,4.68
+Medium,annual,480,3800,131,3.45
+Low,annual,548,4536,89,1.96
+High,monthly,696,3083,498,16.15
+Medium,monthly,753,4520,391,8.65
+Low,monthly,937,6605,331,5.01
